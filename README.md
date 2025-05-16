@@ -16,6 +16,7 @@ If a file is a flag the CONTENT of the file is the actual flag, not just the fil
 Flags are not in any order; you don’t need to find them in order
 
 The Rules of Engagement:
+
 Use any tools you feel are appropriate to properly test the ENPM685 grade service computers for security vulnerabilities.
 
 Asking other people to assist you with this project is NOT PERMITTED. However, if you are stuck you may ask the professor for a hint via email. You are given ONE hint that will not affect your grade. If that hint is not enough that “hint” will be valid until you are able to find one of the flags. 
@@ -32,6 +33,7 @@ Booting the VM into a single user/recovery mode is NOT PERMITTED.
 Changing a password of any kind is NOT PERMITTED.
 
 The Report
+
 Once you have finished your security assessment you need to write up your findings and how you discovered the flags you did. What should be in your report:
 
  
