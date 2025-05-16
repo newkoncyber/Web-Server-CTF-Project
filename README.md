@@ -4,9 +4,15 @@ Conduct a penetration test and security assessment of the ENPM685 Grade Server. 
 
 The Assignment and Requirements
 Conduct a penetration test of the ENPM685 grade server and report your findings.
+
 There are 4 “flags” spread out across the server. By finding these you can demonstrate to the ENPM685 administration of the need to make security improvements. A top grade can only be attained by finding all 4 flags.
-What is a flag? It will be a short phrase or other interesting information you discover during your penetration test. For example, if the flag is a file (named “flagX_is_inside” it will be the contents of the file, not just the file name/location. They are clearly marked, you will know them when you see them.
+
+What is a flag? It will be a short phrase or other interesting information you discover during your penetration test. For example, if the flag is a file (named “flagX_is_inside” it will be the contents of the file, not just the file name/location. 
+
+They are clearly marked, you will know them when you see them.
+
 If a file is a flag the CONTENT of the file is the actual flag, not just the file name
+
 Flags are not in any order; you don’t need to find them in order
 
 The Rules of Engagement
