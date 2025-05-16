@@ -15,13 +15,20 @@ If a file is a flag the CONTENT of the file is the actual flag, not just the fil
 
 Flags are not in any order; you don’t need to find them in order
 
-The Rules of Engagement
+The Rules of Engagement:
 Use any tools you feel are appropriate to properly test the ENPM685 grade service computers for security vulnerabilities.
-Asking other people to assist you with this project is NOT PERMITTED. However, if you are stuck you may ask the professor for a hint via email. You are given ONE hint that will not affect your grade. If that hint is not enough that “hint” will be valid until you are able to find one of the flags. You may ask for (and be provided) more hints for additional flags if needed but extra hints will affect your grade.
+
+Asking other people to assist you with this project is NOT PERMITTED. However, if you are stuck you may ask the professor for a hint via email. You are given ONE hint that will not affect your grade. If that hint is not enough that “hint” will be valid until you are able to find one of the flags. 
+You may ask for (and be provided) more hints for additional flags if needed but extra hints will affect your grade.
+
 Technical questions about importing the virtual machine for this assignment do NOT count towards your hint count.
+
 Asking a question to verify what you think is a flag is actually a flag does NOT count towards your hint count.
+
 Please direct all questions for help with this final to the professor via email. 
+
 Booting the VM into a single user/recovery mode is NOT PERMITTED.
+
 Changing a password of any kind is NOT PERMITTED.
 
 The Report
